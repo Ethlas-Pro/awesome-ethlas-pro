@@ -25,13 +25,13 @@ Learn more on the [official Ethlas Pro website](https://ethlas.pro/).
 
 ## DEV Community Articles
 
-- [How Ethlas Pro Approaches Modern Crypto Wallet Security](https://dev.to/gastonperbenie/how-ethlas-pro-approaches-modern-crypto-wallet-security)
+- [How Ethlas Pro Approaches Modern Crypto Wallet Security](https://dev.to/gastonperbenie/how-ethlas-pro-approaches-modern-crypto-wallet-security-1fg5)
 - [Why Wallet Security Matters More Than Ever in Today's Crypto Ecosystem](https://dev.to/gastonperbenie/why-wallet-security-matters-more-than-ever-in-todays-crypto-ecosystem-alb)
 - [Why Supported Network Coverage Matters in a Multi-Chain Wallet](https://dev.to/gastonperbenie/why-supported-network-coverage-matters-in-a-multi-chain-wallet-3kbp)
 
 ## Substack Articles
 
-- [Why Ethlas Pro Caught My Attention as a Web3 Wallet](https://damienverne.substack.com/)
+- [Why Ethlas Pro Caught My Attention as a Web3 Wallet](https://damienverne.substack.com/p/why-ethlas-pro-caught-my-attention)
 - [Why Multi-Chain Still Feels More Complicated Than It Should](https://damienverne.substack.com/p/why-multi-chain-still-feels-more)
 - [Access Is Easy. Trust Is Hard. The Real Challenge of Web3 Wallets](https://damienverne.substack.com/p/access-is-easy-trust-is-hard-the)
 
